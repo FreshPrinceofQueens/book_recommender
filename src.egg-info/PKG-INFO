@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for a book recommender system
+Home-page: https://github.com/FreshPrinceofQueens/book_recommender
+Author: FreshPrinceofQueens
+Author-email: tayooduyemi1@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+# book_recommender

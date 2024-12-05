@@ -13,7 +13,6 @@ setup(
     name = SRC_REPO,
     version = "0.0.1",
     author = AUTHOR_USER_NAME,
-    author_email = "andrewjcarter@gmail.com",
     description = ("A small package for a book recommender system"),
     long_description= long_description,
     long_description_content_type="text/markdown",
